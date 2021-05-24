@@ -12,10 +12,15 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
 
 ### Output screenshots:
 ![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/happy.PNG)
+
 ![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/angry.PNG)
+
 ![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/sad.PNG)
+
 ![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/fear.PNG)
+
 ![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/neutral.PNG)
+
 
 ### Insrtructions:
   To run my code in your computer you have to need following packages Numpy, os, TensorFlow, Keras, OpenCv.
