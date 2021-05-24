@@ -33,5 +33,5 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
   4. For testing, follow  the testing section in the notebook that i have uploaded.
   
   
-  For viewing the summary and weights of the model open the "Sentiment Analysis.ipynb"
+  For viewing the summary and weights of the model open the "Sentiment Analysis.ipynb".
   For testing my code download the "Sentiment Analysis Testing.ipynb" file,json files and h5 files and run in your pc.
