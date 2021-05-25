@@ -10,17 +10,6 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
 ### Dataset
 [Link for the dataset](https://www.kaggle.com/msambare/fer2013)
 
-### Output screenshots:
-![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/happy.PNG)
-
-![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/angry.PNG)
-
-![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/sad.PNG)
-
-![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/fear.PNG)
-
-![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/neutral.PNG)
-
 
 ### Insrtructions:
   To run my code in your computer you have to need following packages Numpy, os, TensorFlow, Keras, OpenCv.
@@ -35,3 +24,15 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
   
   For viewing the summary and weights of the model open the "Sentiment Analysis.ipynb".
   For testing my code download the "Sentiment Analysis Testing.ipynb" file,json files and h5 files and run in your pc.
+  
+  
+  ### Output screenshots:
+![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/happy.PNG)
+
+![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/angry.PNG)
+
+![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/sad.PNG)
+
+![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/fear.PNG)
+
+![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/neutral.PNG)
