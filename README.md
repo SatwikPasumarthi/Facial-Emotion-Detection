@@ -26,13 +26,13 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
   For testing my code download the "Sentiment Analysis Testing.ipynb" file,json files and h5 files and run in your pc.
   
   
-  ### Output screenshots:
-![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/happy.PNG)
+  ### Sample Outputs:
+![Image of HAPPY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/happy.PNG)
 
-![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/angry.PNG)
+![Image of ANGRY emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/angry.PNG)
 
-![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/sad.PNG)
+![Image of SAD emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/sad.PNG)
 
-![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/fear.PNG)
+![Image of FEAR emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/fear.PNG)
 
-![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/neutral.PNG)
+![Image of NEUTRAL emotion](https://github.com/SatwikPasumarthi/Facial-Emotion-Detection/blob/main/output%20samples/neutral.PNG)
