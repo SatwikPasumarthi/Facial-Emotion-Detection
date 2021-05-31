@@ -14,7 +14,7 @@ The deep learning model answers 80% correctly and tell your emotion by your faci
 ### Insrtructions:
   To run my code in your computer you have to need following packages Numpy, os, TensorFlow, Keras, OpenCv.
   If your pc does'nt have those packages preinstalled. Follow the steps below
-  1. Open the anaconda promt running as administrator.
+  1. Open the anaconda prompt running as administrator.
   2. In the anaconda prompt write the following line for the packages you want.For this project tensorflow, keras, opencv, numpy, os. 
    >pip install packagename
    
